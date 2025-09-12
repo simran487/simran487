@@ -55,7 +55,7 @@
 - 🎨 Hobbies: Basketball, Badminton🏸  
 
 ---
-🌐 Check out my portfolio: [my-portfolio.com](https://my-portfolio.com)
+🌐 Check out my portfolio: [my-portfolio.com](https://simran-portfolio-780d59.netlify.app/)
 
 ⭐ *Thanks for visiting my profile!* ⭐
 
