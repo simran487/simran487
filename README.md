@@ -7,7 +7,7 @@ Aspiring Software Developer | AIML Enthusiast | B.Tech Student
 - HTML, CSS, Git  
 
 ## 🚀 Featured Projects
-- [Code IDE Project](https://github.com/YourUsername/ide-project)  
+- [Code IDE Project](https://github.com/simran487/IDE.git)  
 - [Vehicle Detection and Counting System](https://github.com/simran487/VehicleDetection-CountingSystem.git)
 
 ## 📊 GitHub Stats
