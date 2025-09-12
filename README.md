@@ -19,8 +19,8 @@
 - [Vehicle Detection and Counting System](https://github.com/simran487/VehicleDetection-CountingSystem.git)
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?simran487=YourUsername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?simran487=YourUsername&layout=compact&theme=radical) 
 
 
 ## 📫 Connect with Me  
