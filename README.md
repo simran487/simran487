@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simran487&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?simran487=YourUsername&layout=compact&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran487&layout=compact&theme=radical) 
 
 
 ## 📫 Connect with Me  
