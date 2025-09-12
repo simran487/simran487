@@ -32,6 +32,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran487&layout=compact&theme=radical) 
 
 
+Contribution Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=simran487&theme=radical&hide_border=true)
+
+
 ## 📫 Connect with Me  
 - ✉️ Email: simrankumarisk03@gmail.com  
 - 🔗 [LinkedIn](linkedin.com/in/simran-kumari-977745249/)  
