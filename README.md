@@ -19,7 +19,7 @@
 - [Vehicle Detection and Counting System](https://github.com/simran487/VehicleDetection-CountingSystem.git)
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?simran487=simran487&show_icons=true&theme=radical)  
+![GitHub stats](https://simran-portfolio-780d59.netlify.app/)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?simran487=YourUsername&layout=compact&theme=radical) 
 
 
