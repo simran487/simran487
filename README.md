@@ -35,11 +35,11 @@
 
 --- 
 
-##Contribution Streaks
+## Contribution Streaks
 ![GitHub Streak](https://streak-stats.demolab.com?user=simran487&theme=radical&hide_border=true)
 
 --- 
-##Visitor Counter
+## Visitor Counter
 ![Visitors](https://komarev.com/ghpvc/?username=simran487&color=blue)
 
 ---
