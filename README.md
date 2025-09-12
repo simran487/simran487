@@ -27,21 +27,35 @@
 - [Tradingbot](https://github.com/simran487/Tradingbot.git)
 - [SchoolReviewApp](https://github.com/simran487/SchoolReviewApp.git)
 
+  ---
+
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simran487&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran487&layout=compact&theme=radical) 
 
+--- 
 
-Contribution Streaks
+##Contribution Streaks
 ![GitHub Streak](https://streak-stats.demolab.com?user=simran487&theme=radical&hide_border=true)
 
+--- 
+##Visitor Counter
+![Visitors](https://komarev.com/ghpvc/?username=simran487&color=blue)
+
+---
+## Activity Graph
+![Simran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simran487&theme=react-dark)
+
+## Trophies (achievements)
+![trophy](https://github-profile-trophy.vercel.app/?username=simran487&theme=gruvbox)
 
 ## 📫 Connect with Me  
 - ✉️ Email: simrankumarisk03@gmail.com  
 - 🔗 [LinkedIn](linkedin.com/in/simran-kumari-977745249/)  
-- 🎨 Hobbies: Basketball, Badminton  
+- 🎨 Hobbies: Basketball, Badminton🏸  
 
 ---
+🌐 Check out my portfolio: [my-portfolio.com](https://my-portfolio.com)
 
 ⭐ *Thanks for visiting my profile!* ⭐
 
