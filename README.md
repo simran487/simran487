@@ -21,6 +21,8 @@
 ## 🚀 Featured Projects
 - [Code IDE Project](https://github.com/simran487/IDE.git)  
 - [Vehicle Detection and Counting System](https://github.com/simran487/VehicleDetection-CountingSystem.git)
+- [Twitter-Sentiment-Analysis-using-Fine-Tuned-LSTM-Model](https://github.com/simran487/Twitter-Sentiment-Analysis-using-Fine-Tuned-LSTM-Model.git)
+- [Desktop Assistant](https://github.com/simran487/Desktop-Assistant-.git)
 
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simran487&show_icons=true&theme=radical)  
