@@ -1,5 +1,6 @@
 ## Hi, I'm Simran 👋
 💻 Aspiring Software Developer | AIML Enthusiast | 🎓 B.Tech Student 
+---
 ✨ Passionate about building interactive web apps, ML tools, and learning AI.  
 
 ---
