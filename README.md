@@ -8,7 +8,7 @@ Aspiring Software Developer | AIML Enthusiast | B.Tech Student
 
 ## 🚀 Featured Projects
 - [Code IDE Project](https://github.com/YourUsername/ide-project)  
-- [Notes Summarizer](https://github.com/YourUsername/notes-summarizer)
+- [Vehicle Detection and Counting System](https://github.com/simran487/VehicleDetection-CountingSystem.git)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
