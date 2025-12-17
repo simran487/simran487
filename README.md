@@ -15,6 +15,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ---
@@ -52,10 +54,10 @@
 ## 📫 Connect with Me  
 - ✉️ Email: simrankumarisk03@gmail.com  
 - 🔗 [LinkedIn](linkedin.com/in/simran-kumari-977745249/)  
-- 🎨 Hobbies: Basketball, Badminton🏸  
+- 🎨 Hobbies: Basketball, Badminton🏸, Throwball 
 
 ---
-🌐 Check out my portfolio: [my-portfolio.com](https://simran-portfolio-780d59.netlify.app/)
+🌐 Check out my portfolio: [my-portfolio.com]([https://simran-portfolio-780d59.netlify.app/](https://react-portfolio-zpbr.vercel.app/))
 
 ⭐ *Thanks for visiting my profile!* ⭐
 
