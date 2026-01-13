@@ -50,7 +50,7 @@
 
 ## Trophies (achievements)
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=simran487&theme=gruvbox&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simran487&show_icons=true&theme=gruvbox)
 
 ## 📫 Connect with Me  
 - ✉️ Email: simrankumarisk03@gmail.com  
