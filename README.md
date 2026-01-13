@@ -49,7 +49,8 @@
 ![Simran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simran487&theme=react-dark)
 
 ## Trophies (achievements)
-![trophy](https://github-profile-trophy.vercel.app/?username=simran487&theme=gruvbox)
+## 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=simran487&theme=gruvbox&margin-w=15)
 
 ## 📫 Connect with Me  
 - ✉️ Email: simrankumarisk03@gmail.com  
