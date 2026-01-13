@@ -32,8 +32,9 @@
   ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simran487&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran487&layout=compact&theme=radical) 
+![Followers](https://img.shields.io/github/followers/simran487?style=social)
+![Stars](https://img.shields.io/github/stars/simran487?style=social)
+
 
 --- 
 
