@@ -52,9 +52,6 @@
 
 ## 📫 Connect with Me  
 - ✉️ Email: simrankumarisk03@gmail.com  
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simran%20Kumari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simran-kumari-977745249/)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/simran-kumari-977745249/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Sim_ran05/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/simran06)
