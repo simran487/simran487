@@ -52,7 +52,7 @@
 
 ## 📫 Connect with Me  
 - ✉️ Email: simrankumarisk03@gmail.com  
-- 🔗 [LinkedIn](linkedin.com/in/simran-kumari-977745249/)  
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simran%20Kumari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simran-kumari-977745249/)
 - 🎨 Hobbies: Basketball, Badminton🏸, Throwball 
 
 ---
