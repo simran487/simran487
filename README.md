@@ -39,7 +39,9 @@
 --- 
 
 ## Contribution Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=simran487&theme=radical&hide_border=true)
+![Last Commit](https://img.shields.io/github/last-commit/simran487/Assessment-Recommender)
+![Repo Count](https://img.shields.io/github/repo-size/simran487/Assessment-Recommender)
+
 
 --- 
 ## Visitor Counter
