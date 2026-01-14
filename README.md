@@ -53,6 +53,14 @@
 ## 📫 Connect with Me  
 - ✉️ Email: simrankumarisk03@gmail.com  
 - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simran%20Kumari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simran-kumari-977745249/)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/simran-kumari-977745249/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Sim_ran05/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/simran06)
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/profile/simrankumarisk03)
+[![X (Twitter)](https://img.shields.io/badge/X-black?logo=x&style=for-the-badge)](https://x.com/SimranK26108914)
+
 - 🎨 Hobbies: Basketball, Badminton🏸, Throwball 
 
 ---
